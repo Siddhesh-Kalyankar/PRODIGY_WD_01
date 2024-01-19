@@ -1,1 +1,1 @@
-Resposive loading page related with buying cars 
+Resposive landing page
